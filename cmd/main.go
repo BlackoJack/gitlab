@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/requilence/integram"
+	"github.com/BlackoJack/integram"
 	"github.com/integram-org/gitlab"
 	"github.com/kelseyhightower/envconfig"
 )
